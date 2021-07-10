@@ -33,7 +33,7 @@ project_entries:
 
   - title: Sushi Bot
     url: https://github.com/JoeMandell/Sushi-bot
-    desc: Automating flash games using python.  Features: Computer vision, hardcoded logic, and extensive use of dictionary architecture.
+    desc: Automating flash games using python.  Features- Computer vision, hardcoded logic, and extensive use of dictionary architecture.
     highlight: WIP
 
 #old_project_entries:
