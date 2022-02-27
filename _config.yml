@@ -1,8 +1,8 @@
-title: Time what is time
+title: Joe's Blog
 author: Joe Mandell
 url: https://www.abhinavsaxena.com/moonwalk # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Code, thoughts, maybe even music.  Still working out the kinks with this blog, more content coming soon.
+  This site is a work in progress - like all of us.
 permalink: /:slug.html
 
 favicon: "images/favicon.png" # relative path to site's favicon
