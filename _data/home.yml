@@ -26,15 +26,15 @@ project_entries:
    # desc: This project uses highlight markup, configured in _data/home.yml
     #highlight: WIP
 
-  #- title: Project 5
-   # url: overview-post
-    #desc: Moonwalk also has horizontal list (used in header and footer)
-    #highlight: WIP
+  - title: Agent Based Modelling
+    url: https://github.com/JoeMandell/agent-modelling/tree/master
+    desc: Exploring the Mesa package for Python. Currently includes Game of Life and Schelling Segregation models.
+    highlight: WIP
 
   - title: Sushi Bot
     url: https://github.com/JoeMandell/Sushi-bot
     desc: Automating flash games using python.  Features- Computer vision, hardcoded logic, and extensive use of dictionary architecture.
-    highlight: WIP
+    highlight: OLD
 
 #old_project_entries:
 #  - title: Soopr
