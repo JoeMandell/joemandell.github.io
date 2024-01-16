@@ -2,11 +2,11 @@ stitle: Joe's Blog
 author: Joe Mandell
 url: https://www.joemandell.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  This site is a work in progress - like all of us!
+  Welcome!
 
 permalink: /:slug.html
 
-favicon: "https://joemandell.github.io/images/favicon.ico" # relative path to site's favicon
+favicon: "./images/favicon.ico" # relative path to site's favicon
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
