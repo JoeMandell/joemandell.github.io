@@ -2,11 +2,8 @@ navbar_entries:
   - title: about
     url: about
 
- - title: blog
-   url: blog
-   
- - title: projects
-   url: projects
+  - title: blog
+    url: blog
 
   - title: website
     url: https://joemandell.github.io/
@@ -38,11 +35,6 @@ project_entries:
     url: https://github.com/JoeMandell/Sushi-bot
     desc: Automating flash games using python.  Features- Computer vision, hardcoded logic, and extensive use of dictionary architecture.
     highlight: OLD
-    
-  - title: Titanic Kaggle Challenge
-    url: https://github.com/JoeMandell/Titanic
-    desc: Restarted the Titanic challenge to brush up on data analysis. Planning to keep playing with new techniques with this dataset.
-    highlight: WIP
 
 #old_project_entries:
 #  - title: Soopr
@@ -106,5 +98,3 @@ misc_entries:
 
           - title: it is easy to use, see _data/home.yml to see how to configure it.
             url: false
-
-
