@@ -29,12 +29,17 @@ project_entries:
   - title: Agent Based Modelling
     url: https://github.com/JoeMandell/agent-modelling/tree/master
     desc: Exploring the Mesa package for Python. Currently includes Game of Life and Schelling Segregation models.
-    highlight: WIP
+    #highlight: WIP
 
   - title: Sushi Bot
     url: https://github.com/JoeMandell/Sushi-bot
     desc: Automating flash games using python.  Features- Computer vision, hardcoded logic, and extensive use of dictionary architecture.
-    highlight: OLD
+    #highlight: OLD
+
+  - title: Titanic on Kaggle
+    url: https://github.com/JoeMandell/Titanic
+    desc: Started fresh on the titanic challenge on Kaggle. Hoping to brush up on data analysis and learn new techniques. 
+    #highlight: WIP
 
 #old_project_entries:
 #  - title: Soopr
