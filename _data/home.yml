@@ -2,8 +2,10 @@ navbar_entries:
   - title: about
     url: about
 
-  - title: blog
-    url: blog
+ # - title: blog
+ #   url: blog
+ - title: projects
+   url: projects
 
   - title: website
     url: https://joemandell.github.io/
