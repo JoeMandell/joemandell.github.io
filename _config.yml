@@ -1,8 +1,10 @@
-stitle: Joe's Blog
+title: Joe Mandell
 author: Joe Mandell
 url: https://www.joemandell.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Welcome!
+  Welcome! 
+  Click on the projects below to view their code.
+  My contact info is in the "about" section.
 
 permalink: /:slug.html
 
